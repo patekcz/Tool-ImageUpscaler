@@ -12,8 +12,8 @@ A simple command-line application to upscale images pixel by pixel using Node.js
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/patekcz/image-upscaler.git
-   cd image-upscaler
+   git clone https://github.com/patekcz/Tool-ImageUpscaler.git
+   cd Tool-ImageUpscaler
    ```
 
 2. Install the dependencies:
