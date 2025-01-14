@@ -62,9 +62,9 @@ async function upscaleImage(inputPath, outputPath, scaleFactor) {
 // Nový kód pro zpracování argumentů
 function printHelp() {
     console.log(`
-Usage: node index.js <input_file> <output_file> <pixel_size>
+Usage: node image-upscaler <input_file> <output_file> <pixel_size>
 
-        Example: node index.js input.png output.png 15
+        Example: node image-upscaler input.png output.png 15
     `);
 }
 

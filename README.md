@@ -29,3 +29,17 @@ A simple command-line application to upscale images pixel by pixel using Node.js
 ## Usage
 
 To run the application, use the following command:
+
+```bash
+node image-upscaler <input_file> <output_file> <pixel_size>
+```
+
+### Example
+
+```bash
+node image-upscaler input.png output.png 15
+```
+
+- `<input_file>`: Path to the original image.
+- `<output_file>`: Path where the upscaled image will be saved.
+- `<pixel_size>`: Size of the pixel to which the image should be upscaled.
